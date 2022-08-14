@@ -3,4 +3,4 @@ hello guizi! hello git! 33333
 hello guizi! hello git!
 hello guizi! hello git!
 hello guizi! hello git! master test
-hello guizi! hello git!
+hello guizi! hello git! hot-fix test 
